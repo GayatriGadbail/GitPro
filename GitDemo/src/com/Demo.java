@@ -10,6 +10,12 @@ public class Demo {
         public void m3(){
 		System.out.println("This is a m3 method");
 	}
+        public void m4() {
+    		System.out.println("This is a m4 method");
+    	}
+    	public void m5(){
+    		System.out.println("This is a m5 method");
+    	}
 		public static void main(String args[]) {
 			System.out.println("This is main method");
 	}
